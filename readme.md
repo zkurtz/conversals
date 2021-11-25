@@ -10,7 +10,7 @@ A curated list of examples of reversals of conventional wisdom, organized by top
 
 ## Diet, health, and medicine
 
-- A high-fat diet is more dangerous than a high-sugar diet: [Once conventional wisdom, now debated or at least more nuanced](https://www.bbc.com/news/magazine-26375004).
+- A high-fat diet is more dangerous than a high-sugar diet: [Now debated or at least more nuanced](https://www.bbc.com/news/magazine-26375004).
 - [Tomatoes were believed to be poisonous in some regions and time periods](https://www.smithsonianmag.com/arts-culture/why-the-tomato-was-feared-in-europe-for-more-than-200-years-863735/).
 
 ## Statistical analysis
